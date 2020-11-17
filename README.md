@@ -9,6 +9,11 @@ Hackintosh ( Z390 + i7-9700K + 5700XT ) + OpenCore 0.6.3
 - GPU: Radeon RX 5700 XT 8GB
 - OSX Version : macOS Big Sur 11.0.1
 
+[1](./images/1.png)
+[2](./images/2.png)
+[3](./images/3.png)
+[4](./images/4.png)
+
 ## BISO Setting
 
 ### Disable
